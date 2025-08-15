@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "name": "Avocado",
+      "imageUrl": "https://www.oum.ru/upload/iblock/188/ft917j0em1ilpta660eat05kjsissdqa/avo_detail.jpg",
+      "count": 102,
+      "size": {
+        "width": 100,
+        "height": 100
+      },
+      "weight": "150g",
+      "id": "1"
+    },
+    {
+      "name": "Tomatosіі",
+      "imageUrl": "https://images.pexels.com/photos/1435904/pexels-photo-1435904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "count": 5,
+      "size": {
+        "width": 80,
+        "height": 802
+      },
+      "weight": "100g",
+      "id": "2"
+    },
+    {
+      "name": "Test1ііі",
+      "imageUrl": "https://fruit-time.ua/images/cache/products/3a/pomidor__274-500x500.jpeg",
+      "count": 3,
+      "size": {
+        "width": 3,
+        "height": 3
+      },
+      "weight": "212",
+      "id": "5bc5"
+    },
+    {
+      "name": "213213",
+      "imageUrl": "12321",
+      "count": 12321,
+      "size": {
+        "width": 123,
+        "height": 213213
+      },
+      "weight": "123213",
+      "id": "7cdd"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "productId": 1,
+      "description": "Very fresh avocado!",
+      "date": "14:00 22.08.2024"
+    },
+    {
+      "id": "2",
+      "productId": 1,
+      "description": "Perfect for guacamole.",
+      "date": "15:30 22.08.2024"
+    }
+  ]
+}
