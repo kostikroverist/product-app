@@ -1,4 +1,4 @@
-Звісно! Ось повний готовий `README.md` для твого проєкту:
+
 
 ````markdown
 # My Product App
